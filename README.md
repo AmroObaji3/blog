@@ -4,6 +4,11 @@ blog :
 
 
 -add posts 
--profile
-- register system 
+-profile system 
+-register system 
 -login and logout system 
+
+
+
+
+blog maked by django framework
